@@ -1,0 +1,12 @@
+diff --git a/src/WebView.styles.ts b/src/WebView.styles.ts
+index 69aa0de905b9291f86545e0cd002f8e238297c4e..d052c30aed67774b07d69fb317783940d276c924 100644
+--- a/src/WebView.styles.ts
++++ b/src/WebView.styles.ts
+@@ -3,7 +3,6 @@ import { StyleSheet } from 'react-native';
+ const styles = StyleSheet.create({
+   container: {
+     flex: 1,
+-    overflow: 'hidden',
+   },
+   loadingOrErrorView: {
+     position: 'absolute',

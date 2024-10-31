@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "micare-new-app",
+    "slug": "micare-new-app",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.app.micare"
+    },
+    "android": {
+      "package": "com.app.micare"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "scheme": "micare",
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "newArchEnabled": true
+          },
+          "android": {
+            "newArchEnabled": true
+          }
+        }
+      ]
+    ]
+  }
+}
