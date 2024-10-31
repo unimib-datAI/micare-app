@@ -1,3 +1,8 @@
+# MICARE APP README
+
+This is the README for the Micare Application, it uses React Native Expo.
+
+
 # [New Architecture Example](https://reactnative.dev/docs/the-new-architecture/landing-page)
 
 ## 🚀 How to use
